@@ -35,10 +35,10 @@ Accordingly, this example is particularly suitable as an introduction and is oft
 
 ```
 isz A
-jmp 3
-jmp 5
+jmp 4
+jmp 6
 dec A
-jmp 0
+jmp 1
 stp
 ```
 
