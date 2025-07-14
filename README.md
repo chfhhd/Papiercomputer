@@ -1,8 +1,8 @@
 # Papiercomputer - Paper Computer
 
-This is a Word and PDF template of the so-called **WDR paper computer**, an educational, non-electronic “computer” made of paper. The template is based on the concept of the original **Know-how-Computer**, which was presented in 1983 by **Wolfgang Back** and **Ulrich Rohde** in the German TV program *WDR Computerclub*.
+This is a Word and PDF template of a **Paper Computer**, an educational, non-electronic “computer” made of paper. The template is based on the concept of the original **Know-how-Computer**, also known as **WDR Papiercomputer**, which was presented in 1983 by **Wolfgang Back** and **Ulrich Rohde** in the German TV program *WDR Computerclub*.
 
-With the paper computer, simple programs can be written in a minimalist assembly language and executed using matches and a ballpoint pen as “hardware” - completely without electricity or electronics. It is an educational tool that teaches basic concepts of computing and programming in a fun way.
+With the Paper Computer, simple programs can be written in a minimalist assembly language and executed using matches and a ballpoint pen as “hardware” - completely without electricity or electronics. It is an educational tool that teaches basic concepts of computing and programming in a fun way.
 
 The template does not use the original command abbreviations, but is based on the instruction names definded by [Marian Aldenhövel](https://www.marian-aldenhoevel.de/papiercomputer/), who developed a browser based simulator.
 
@@ -58,6 +58,7 @@ There are numerous variants of the paper computer as well as didactically prepar
 - [Browserbasierter Simulator von Marian Aldenhövel mit vielen Beispielen (https://www.marian-aldenhoevel.de/papiercomputer/)](https://www.marian-aldenhoevel.de/papiercomputer/)
 - [An implementation as a marble computer with extensive didactic material (https://inf-schule.de/rechner/bonsai/murmelrechner)](https://inf-schule.de/rechner/bonsai/murmelrechner)
 - [Extensive learning materials on the Paper Pomputer (https://unterrichten.zum.de/wiki/Benutzer:Ukalina/Lernpfad_Know-How-Computer)](https://unterrichten.zum.de/wiki/Benutzer:Ukalina/Lernpfad_Know-How-Computer)
+- [The original WDR Papiercomputer] (https://web.archive.org/web/20010331082121/http://www.wdrcc.de/khc.phtml)
 
 ## License
 
