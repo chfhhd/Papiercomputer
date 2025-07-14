@@ -1,6 +1,6 @@
 # Papiercomputer - Paper Computer
 
-This is a Word and PDF template of a **Paper Computer**, an educational, non-electronic “computer” made of paper. The template is based on the concept of the original **Know-how-Computer**, also known as **WDR Papiercomputer**, which was presented in 1983 by **Wolfgang Back** and **Ulrich Rohde** in the German TV program *WDR Computerclub*.
+This is a Word and PDF template of a **Paper Computer**, an educational, non-electronic “computer” made of paper. The template is based on the concept of the original **[Know-how-Computer](https://web.archive.org/web/20010331082121/http://www.wdrcc.de/khc.phtml)**, also known as **[WDR Papiercomputer](https://web.archive.org/web/20010331082121/http://www.wdrcc.de/khc.phtml)**, which was presented in 1983 by **Wolfgang Back** and **Ulrich Rohde** in the German TV program *WDR Computerclub*.
 
 With the Paper Computer, simple programs can be written in a minimalist assembly language and executed using matches and a ballpoint pen as “hardware” - completely without electricity or electronics. It is an educational tool that teaches basic concepts of computing and programming in a fun way.
 
