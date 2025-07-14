@@ -62,4 +62,4 @@ There are numerous variants of the paper computer as well as didactically prepar
 
 ## License
 
-This template is licensed under the CC BY-NC 4.0 license. The original idea comes from WDR Computerclub (1983). This implementation is not officially affiliated with WDR or the original developers.
+This template is licensed under the [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). The original idea comes from WDR Computerclub (1983). This implementation is not officially affiliated with WDR or the original developers.
