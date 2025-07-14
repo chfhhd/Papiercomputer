@@ -58,7 +58,7 @@ There are numerous variants of the paper computer as well as didactically prepar
 - [Browserbasierter Simulator von Marian Aldenhövel mit vielen Beispielen (https://www.marian-aldenhoevel.de/papiercomputer/)](https://www.marian-aldenhoevel.de/papiercomputer/)
 - [An implementation as a marble computer with extensive didactic material (https://inf-schule.de/rechner/bonsai/murmelrechner)](https://inf-schule.de/rechner/bonsai/murmelrechner)
 - [Extensive learning materials on the Paper Pomputer (https://unterrichten.zum.de/wiki/Benutzer:Ukalina/Lernpfad_Know-How-Computer)](https://unterrichten.zum.de/wiki/Benutzer:Ukalina/Lernpfad_Know-How-Computer)
-- [The original WDR Papiercomputer] (https://web.archive.org/web/20010331082121/http://www.wdrcc.de/khc.phtml)
+- [The original WDR Papiercomputer (https://web.archive.org/web/20010331082121/http://www.wdrcc.de/khc.phtml)](https://web.archive.org/web/20010331082121/http://www.wdrcc.de/khc.phtml)
 
 ## License
 
